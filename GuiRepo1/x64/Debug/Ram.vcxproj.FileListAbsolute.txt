@@ -1,0 +1,3 @@
+C:\Users\shubh\source\repos\Ram\Ram\x64\Debug\Ram.vcxproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\Ram\Ram\x64\Debug\Ram.MyForm.resources
+C:\Users\shubh\source\repos\Ram\Ram\x64\Debug\Ram.vcxproj.GenerateResource.cache
